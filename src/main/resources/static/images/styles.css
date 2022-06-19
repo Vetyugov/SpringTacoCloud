@@ -1,0 +1,13 @@
+.grid{
+    white-space: nowrap;
+}
+.ingredient-group{
+    white-space: normal;
+    display: inline-block;
+    width: 48%;
+    vertical-align:top;
+    background: #fff2e1;
+}
+.grid .ingredient-group:first-child{
+    margin-right: 4%;
+}

@@ -1,5 +1,6 @@
-package com.vetyugov.spring;
+package com.vetyugov.spring.tacos;
 
+import com.vetyugov.spring.tacos.HomeController;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
